@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-left:200px;
+    padding: 50px;
+}
+table{
+    border-spacing: 8px 10px;
+}
+.table-box{
+    width: 800px;
+    text-align: center;
+}
+.border{
+   border: 1px solid black;
+}
+.orange{
+    background: rgb(243, 124, 124);
+    border: 1px solid black;
+    border: 2px solid black;
+}
+.green{
+    margin: 30px;
+    background-color: rgb(138, 236, 166);
+    border: 1px solid black;
+    border: 2px solid black;
+}
+.blue{
+    background-color: rgb(152, 213, 246);
+    border: 1px solid black;
+    border: 2px solid black;
+}
+.yello{
+    background-color: rgb(232, 240, 111);
+    border: 2px solid black;
+    
+}
+th, td {
+    padding: 8px;
+    margin: 8px;
+    
+  }
+
+  
+
